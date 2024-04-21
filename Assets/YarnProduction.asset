@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: YarnProduction
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5089526456622170384
+  m_GuidHigh: 6486204566915385258
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5111180138960633945
+      m_GuidHigh: 5297075275350335394
+    m_SerializedTextureGuid:
+      m_GuidLow: 13651660257566936388
+      m_GuidHigh: 8156387327643596792
+    m_Size: {x: 0.16, y: 0.2071713}
+    m_SpecifySize: 1
+    m_Name: Scour
+    m_Texture: {fileID: 2800000, guid: b6984d4470acbd74f8b7b1620f4f3171, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5593215805372822692
+      m_GuidHigh: 3896793372880455337
+    m_SerializedTextureGuid:
+      m_GuidLow: 2680901235790183738
+      m_GuidHigh: 8189052822881607736
+    m_Size: {x: 0.16, y: 0.11706329}
+    m_SpecifySize: 1
+    m_Name: Shear
+    m_Texture: {fileID: 2800000, guid: 4d2dfd3a7978253438a0c4aa275ca571, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5313484123254015438
+      m_GuidHigh: 17732328969590983316
+    m_SerializedTextureGuid:
+      m_GuidLow: 4581311767405450389
+      m_GuidHigh: 2875924700076825883
+    m_Size: {x: 0.16, y: 0.10107417}
+    m_SpecifySize: 1
+    m_Name: Sort
+    m_Texture: {fileID: 2800000, guid: 9584d49516c73f941bddd9044756e927, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5500288344622347168
+      m_GuidHigh: 4139755942464345763
+    m_SerializedTextureGuid:
+      m_GuidLow: 2361061105158885789
+      m_GuidHigh: 5309362622622602968
+    m_Size: {x: 0.16, y: 0.15564625}
+    m_SpecifySize: 1
+    m_Name: Carding
+    m_Texture: {fileID: 2800000, guid: d1fc919d2c9020c4d81628d12ca5ae49, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5306141404341896225
+      m_GuidHigh: 4892866056361647
+    m_SerializedTextureGuid:
+      m_GuidLow: 15835910440666570044
+      m_GuidHigh: 16459170311335169896
+    m_Size: {x: 0.16, y: 0.12010723}
+    m_SpecifySize: 1
+    m_Name: YarnMaking
+    m_Texture: {fileID: 2800000, guid: bed49d3c74a4dbc468cfc99831b86ae4, type: 3}
